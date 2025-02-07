@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Binance",
+        "icon": "https://github.com/kamalAa1/multi-coin-faucets-data/blob/main/images/binance.png?raw=true",
+        "description": "Use wallet to withdraw funds.",
+        "status": "active"
+    },
+    {
+        "name": "Faucet Pay",
+        "icon": "https://github.com/kamalAa1/multi-coin-faucets-data/blob/main/images/faucetlogo.png?raw=true",
+        "description": "Withdraw directly to your credit card.",
+        "status": "active"
+    },
+    {
+        "name": "Coinbase",
+        "icon": "https://github.com/kamalAa1/multi-coin-faucets-data/blob/main/images/Coinbase2.png?raw=true",
+        "description": "Fast and secure PayPal withdrawal.",
+        "status": "active"
+    },
+    {
+        "name": "Kaspa",
+        "icon": "https://raw.githubusercontent.com/kamalAa1/multi-coin-faucets-data/refs/heads/main/images/Kaspa-LDSP-Dark-Full-Color.png",
+        "description": "Use bank transfer for secure withdrawals.",
+        "status": "active"
+    }
+]
