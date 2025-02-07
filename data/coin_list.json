@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Bitcoin",
+        "logo": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "name": "Ethereum",
+        "logo": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "name": "Ripple",
+        "logo": "https://cryptologos.cc/logos/xrp-xrp-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "name": "Litecoin",
+        "logo": "https://cryptologos.cc/logos/litecoin-ltc-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "name": "Bitcoin Cash",
+        "logo": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 6,
+        "name": "Cardano",
+        "logo": "https://cryptologos.cc/logos/cardano-ada-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 7,
+        "name": "Polkadot",
+        "logo": "https://cryptologos.cc/logos/polkadot-new-dot-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 8,
+        "name": "Stellar",
+        "logo": "https://cryptologos.cc/logos/stellar-xlm-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 9,
+        "name": "Chainlink",
+        "logo": "https://cryptologos.cc/logos/chainlink-link-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 10,
+        "name": "Binance Coin",
+        "logo": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 11,
+        "name": "Tether",
+        "logo": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 12,
+        "name": "Monero",
+        "logo": "https://cryptologos.cc/logos/monero-xmr-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 13,
+        "name": "EOS",
+        "logo": "https://cryptologos.cc/logos/eos-eos-logo.png",
+        "status": "active"
+    },
+    {
+        "id": 14,
+        "name": "Tezos",
+        "logo": "https://cryptologos.cc/logos/tezos-xtz-logo.png",
+        "status": "active"
+    }
+]
