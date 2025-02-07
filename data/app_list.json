@@ -1,7 +1,7 @@
 [
   {
-    "name": "Faucet 1",
-    "logo": "https://cdn-icons-png.flaticon.com/512/1/1.png",
+    "name": "Pepe Faucet",
+    "logo": "https://play-lh.googleusercontent.com/WC7VYnp9K9Sk16kM686PO4mxHVDfFzZchaXRVBctt6vppY2iMECL8gdK31t8-tJuQQo=w240-h480-rw?w=128&q=75",
     "desc": "This is a description of Faucet 1. It provides free coins every hour.",
     "playstore_link": "https://play.google.com/store/apps/details?id=faucet1",
     "default_color": "#FF5733",
@@ -16,8 +16,8 @@
     "status": "active"
   },
   {
-    "name": "Faucet 2",
-    "logo": "https://cdn-icons-png.flaticon.com/512/2/2.png",
+    "name": "XRP Faucet",
+    "logo": "https://play-lh.googleusercontent.com/ZaeFruLRXK6-SxbZKuXIr5KzRNyBbUUJePvwLOrvYTm5Y-DTa8rxo77qZ_WCAO_CaQ=w240-h480-rw?w=128&q=75",
     "desc": "This is a description of Faucet 2. It provides free coins every hour.",
     "playstore_link": "https://play.google.com/store/apps/details?id=faucet2",
     "default_color": "#33FF57",
@@ -32,8 +32,8 @@
     "status": "active"
   },
   {
-    "name": "Faucet 3",
-    "logo": "https://cdn-icons-png.flaticon.com/512/3/3.png",
+    "name": "USDC Faucet",
+    "logo": "https://play-lh.googleusercontent.com/Lm-sLMslkwvk83TcxbeNTJS0ClSShtUsrNTgndke8j7uGktKquFeaErcz5kbOnRwSN0=w240-h480-rw?w=128&q=75",
     "desc": "This is a description of Faucet 3. It provides free coins every hour.",
     "playstore_link": "https://play.google.com/store/apps/details?id=faucet3",
     "default_color": "#3357FF",
@@ -48,8 +48,8 @@
     "status": "active"
   },
   {
-    "name": "Faucet 4",
-    "logo": "https://cdn-icons-png.flaticon.com/512/4/4.png",
+    "name": "Floki Faucet",
+    "logo": "https://play-lh.googleusercontent.com/PtrGMXkOSXLlS1Y_ZeRVWdFP31wtFGX7uFCZZT1yuq0D0tP4Kp_Yz0TS3_Q07OMkmds=w480-h960-rw?w=128&q=75",
     "desc": "This is a description of Faucet 4. It provides free coins every hour.",
     "playstore_link": "https://play.google.com/store/apps/details?id=faucet4",
     "default_color": "#FF33A1",
@@ -64,8 +64,8 @@
     "status": "active"
   },
   {
-    "name": "Faucet 5",
-    "logo": "https://cdn-icons-png.flaticon.com/512/5/5.png",
+    "name": "Binance Faucet",
+    "logo": "https://play-lh.googleusercontent.com/MJ92Nhjix0q8kSz6gtIjHrhfztgyYJ4vNCYe67Xpel-IRJfC6tF6DWm0uSBPo3z7Fg=w480-h960-rw?w=128&q=75",
     "desc": "This is a description of Faucet 5. It provides free coins every hour.",
     "playstore_link": "https://play.google.com/store/apps/details?id=faucet5",
     "default_color": "#A133FF",
@@ -80,8 +80,8 @@
     "status": "active"
   },
   {
-    "name": "Faucet 6",
-    "logo": "https://cdn-icons-png.flaticon.com/512/6/6.png",
+    "name": "Ethereum Faucet",
+    "logo": "https://play-lh.googleusercontent.com/Pi72KitiCy_H_485VKpEw7BppEiDGfWqCnKVwOWmpmgLAwkktpuRtGVV6sKZPXZFdbS5=w480-h960-rw?w=128&q=75",
     "desc": "This is a description of Faucet 6. It provides free coins every hour.",
     "playstore_link": "https://play.google.com/store/apps/details?id=faucet6",
     "default_color": "#33FFA1",
@@ -96,8 +96,8 @@
     "status": "active"
   },
   {
-    "name": "Faucet 7",
-    "logo": "https://cdn-icons-png.flaticon.com/512/7/7.png",
+    "name": "Solona Faucet",
+    "logo": "https://play-lh.googleusercontent.com/96xQLISt-TOMsEZ6Q7GcxJr32cnBgiOL6t9deg4N9WHAfib0YTvZSDg5y6wd83mH7g5h=w480-h960-rw?w=128&q=75",
     "desc": "This is a description of Faucet 7. It provides free coins every hour.",
     "playstore_link": "https://play.google.com/store/apps/details?id=faucet7",
     "default_color": "#FF5733",
@@ -112,8 +112,8 @@
     "status": "active"
   },
   {
-    "name": "Faucet 8",
-    "logo": "https://cdn-icons-png.flaticon.com/512/8/8.png",
+    "name": "Shiba Inu Faucet",
+    "logo": "https://play-lh.googleusercontent.com/uWG4LcLFuuMH-sX5Ks_MpMeLrMyODg4B2oIl9fbiAVQQt6rNpkXxipgCIXp-iKftSGc=w480-h960-rw?w=128&q=75",
     "desc": "This is a description of Faucet 8. It provides free coins every hour.",
     "playstore_link": "https://play.google.com/store/apps/details?id=faucet8",
     "default_color": "#33FF57",
